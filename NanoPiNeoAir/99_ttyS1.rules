@@ -1,0 +1,2 @@
+#must be in /etc/udev/rules.d/
+KERNEL=="ttyS1", SYMLINK+="ttyAMA0"

@@ -1,0 +1,2 @@
+#must be in /etc/udev/rules.d/
+KERNEL=="i2c-0", SYMLINK+="i2c-1"
