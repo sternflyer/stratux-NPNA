@@ -18,7 +18,7 @@ For best performance, install Armbian to the internal eMMC of the NanoPi Neo Air
 
 # Hardware
 The NanoPi Neo Air is a very minimalistic SBC. Measuring only 40x40mm, it is probably one of the smallest SBC around. With no external connectors aside a mini USB port and a SD-Card slot. 
-However, two USB-Ports, UART and I2C are available via pinheader. For detailed description see https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Air
+However, two USB-Ports, UART and I2C are available via pinheader. For detailed description see https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Air.
 For connecting the peripherlas (two SDRs, a GPS and GY-91 AHRS board) I designed a PCB to connect to the pinheader.
 Here is a small comparison of the NanoPi Neo Air and the Raspberry Pi 3B+ when running Stratux:
 
