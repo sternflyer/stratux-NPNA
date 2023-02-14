@@ -7,7 +7,11 @@ Based on the wonderful work of https://github.com/b3nn0/stratux and https://gith
 For best performance, install Armbian to the internal eMMC of the NanoPi Neo Air.
 - Boot up Armbian Bullseye and connect to your WiFi. The initial Armbian setuo script will guide you through that process.
 - Download and run the Stratux NPNA setup script:
+
 ```wget https://raw.githubusercontent.com/sternflyer/stratux-NPNA/main/stratux-NPNA-setup.sh```
+
 ```chmod +x stratux-NPNA-setup.sh```
+
 ```sudo ./stratux-NPNA-setup.sh```
+
 - Reboot when promted 
