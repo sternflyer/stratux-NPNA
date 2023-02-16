@@ -39,7 +39,7 @@ make -j8 && make install
 rm -rf /root/kalibrate-rtl
 
 # Prepare wiringpi for ogn trx via GPIO
-cd /root && git clone https://github.com/friendlyarm/WiringNP
+cd /root && git clone https://github.com/wertyzp/WiringNP.git
 cd WiringNP/
 chmod 755 build
 ./build
