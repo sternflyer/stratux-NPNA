@@ -73,7 +73,7 @@ cd /root/stratux-NPNA/NanoPiNeoAir
 cp -f rc.local /etc/rc.local
 cp -f interfaces /etc/network/interfaces
 cp -f interfaces.template /root/stratux/image
-cp -f fancontrol.go /stratux/fancontrol_main/fancontrol.go
+cp -f fancontrol.go /root/stratux/fancontrol_main/fancontrol.go
 cp -f 99_i2c-0.rules /etc/udev/rules.d/
 cp -f 99_ttyS1.rules /etc/udev/rules.d/
 # disable swapfile
