@@ -18,7 +18,10 @@ sudo ./stratux-NPNA-setup.sh
 # Hardware
 The NanoPi Neo Air is a very minimalistic SBC. Measuring only 40x40mm, it is probably one of the smallest SBC around. With no external connectors aside a mini USB port and a SD-Card slot. 
 However, two USB-Ports, UART and I2C are available via pinheader. For detailed description see https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Air.
+
+## PCB
 For connecting the peripherlas (two SDRs, a GPS and GY-91 AHRS board) I designed a PCB to connect to the pinheader.
+
 ## NanoPi Neo Air vs. Raspberry Pi 3B+
 Here is a small comparison of the NanoPi Neo Air and the Raspberry Pi 3B+ when running Stratux. Comparison was done with two Nooelec NESDR Nano 2, a GPS (USB BL1 GPS Module at rPi 3B+, Ublox Neo-7 GPS on UART at NeoPi Nano Air) and a GY-91 Module as AHRS connected.
 
