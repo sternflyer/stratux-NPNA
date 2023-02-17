@@ -87,6 +87,7 @@ sed -i /boot/armbianEnv.txt \
 
 #rootfs overlay
 cp -f overlayctl /sbin/
+chmod 755 /sbin/overlayctl
 overlayctl install
 mkdir -p /overlay/robase # prepare so we can bind-mount root even if overlay is disabled
 
