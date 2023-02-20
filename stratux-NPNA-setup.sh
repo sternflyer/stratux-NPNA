@@ -75,7 +75,6 @@ cp -f interfaces /etc/network/interfaces
 cp -f interfaces.template /root/stratux/image
 cp -f sensors.go /root/stratux/main/sensors.go
 cp -f gps.go /root/stratux/main/gps.go
-cp -f 99_i2c-0.rules /etc/udev/rules.d/
 cp -f 99_ttyS1.rules /etc/udev/rules.d/
 # disable swapfile
 cp -f armbian-zram-config /etc/default/armbian-zram-config
