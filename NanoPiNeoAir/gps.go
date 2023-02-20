@@ -294,7 +294,7 @@ func initGPSSerial() bool {
 		}
 	} else if globalStatus.GPS_detected_type == GPS_TYPE_UBX6 || globalStatus.GPS_detected_type == GPS_TYPE_UBX7 ||
 	          globalStatus.GPS_detected_type == GPS_TYPE_UBX8 || globalStatus.GPS_detected_type == GPS_TYPE_UBX9 ||
-		  globalStatus.GPS_detected_type == GPS_TYPE_UART {
+		  globalStatus.GPS_detected_type == GPS_TYPE_UART { 
 
 		// Byte order for UBX configuration is little endian.
 
