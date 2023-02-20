@@ -53,7 +53,7 @@ func initI2CSensors() {
 		}
 	}()
 	embd.SetHost(embd.HostRPi, 3)
-	i2cbus = embd.NewI2CBus(0)
+	i2cbus = embd.NewI2CBus(0) // use i2c-0 for pin compatibility on NanoPi Neo Air
 	go pollSensors()
 	go sensorAttitudeSender()
 	go updateAHRSStatus()
