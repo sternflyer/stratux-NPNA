@@ -49,7 +49,7 @@ These are the components you need: TBA
 - 30x30x7mm Fan (https://amzn.to/45lR8dI)
 - GY-91 (https://amzn.to/3sjisum)
 - PCB
-- PCB components
+- PCB components ([PCB/Partlist PCB.csv](https://github.com/sternflyer/stratux-NPNA/blob/main/PCB/Partlist%20PCB.csv))
 - PETG or ABS for the case (https://amzn.to/3P5NSgH)
 - Suction cup (https://amzn.to/3E7OOLq)
 
