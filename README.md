@@ -16,7 +16,7 @@ sudo ./stratux-NPNA-setup.sh
 - Reboot when promted 
 
 # Hardware
-Description of the hardware used. You can find a shopping list and the end.
+Description of the hardware used. You can find a shopping list at the end.
 
 ## NanoPi Neo Air
 The NanoPi Neo Air is a very minimalistic SBC. Measuring only 40x40mm, it is probably one of the smallest SBC around. With no external connectors aside a mini USB port and a SD-Card slot. 
