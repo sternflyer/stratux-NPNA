@@ -39,14 +39,14 @@ The case can be 3D-printed. With the fan it provides sifficient cooling for the 
 
 # Shopping list
 These are the components you need: TBA
-- NanoPi Neo Air
-- SDRs
+- NanoPi Neo Air (https://amzn.to/3KQvrtV)
+- SDRs (https://amzn.to/3qOO4Ye)
 - GPS Module
-- 3007 Fan
-- GY-91
+- 30x30x7mm Fan (https://amzn.to/45lR8dI)
+- GY-91 (https://amzn.to/3sjisum)
 - PCB
 - PCB components
-- PETG or ABS for the case
+- PETG or ABS for the case (https://amzn.to/3P5NSgH)
 - Suction cup
 
 # NanoPi Neo Air vs. Raspberry Pi 3B+
