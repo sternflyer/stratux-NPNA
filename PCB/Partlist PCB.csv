@@ -10,7 +10,7 @@ C8	22uF	C_CHIP-0805	0805	Capacitor	https://www.reichelt.de/smd-vielschicht-0805-
 C9	100nF	C_CHIP-0805	0805	Capacitor	https://www.reichelt.de/vielschicht-kerko-100nf-50v-125-c-kem-x7r0805-100n-p207073.html
 D1	1SMB5920B	SMBJ 5.0A-TR STM	DO-214AA/SMB	Zener Diode	https://www.reichelt.de/tvs-diode-unidirectional-5-v-600-w-do-214aa-smb-smbj-5-0a-tr-stm-p219609.html
 F1	1812L010	1812L010	FUSC4532X125	Fuse	https://www.reichelt.de/smd-sicherung-smd-1206-traege-t-2a-belfuse-430020-p279446.html
-FAN	Micro Sh 1.0 Jst 4 Pin	Micro Sh 1.0 Jst 4 Pin	1X04_1MM_RA	Micro Sh .,0 Jst 4 Pin	https://amzn.to/3sryfXW
+FAN	Micro Sh 1.0 Jst 4 Pin	Micro Sh 1.0 Jst 4 Pin	1X04_1MM_RA	Micro Sh 1.0 Jst 4 Pin	https://amzn.to/3sryfXW
 FB1	BLM21AG 331	FB_BLM21AG102SN1D_0805(2012)	0805	Ferrite Bead	https://www.reichelt.de/ferrit-bead-smd-0805-blm21-330-ohm-blm21pg-331-p89688.html
 FB2	BLM21AG 331	FB_BLM21AG102SN1D_0805(2012)	0805	Ferrite Bead	https://www.reichelt.de/ferrit-bead-smd-0805-blm21-330-ohm-blm21pg-331-p89688.html
 FB3	BLM21AG 331	FB_BLM21AG102SN1D_0805(2012)	0805	Ferrite Bead	https://www.reichelt.de/ferrit-bead-smd-0805-blm21-330-ohm-blm21pg-331-p89688.html
