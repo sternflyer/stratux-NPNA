@@ -47,7 +47,7 @@ These are the components you need: TBA
 - PCB
 - PCB components
 - PETG or ABS for the case (https://amzn.to/3P5NSgH)
-- Suction cup
+- Suction cup (https://amzn.to/3E7OOLq)
 
 # NanoPi Neo Air vs. Raspberry Pi 3B+
 Here is a small comparison of the NanoPi Neo Air and the Raspberry Pi 3B+ when running Stratux. Comparison was done with two Nooelec NESDR Nano 2, a GPS (USB BL1 GPS Module at rPi 3B+, Beitian BE-252i GPS on UART at NeoPi Nano Air) and a GY-91 Module as AHRS connected. TBA
