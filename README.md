@@ -1,6 +1,10 @@
 # stratux-NPNA
-Stratux Europe running on a NanoPi Neo Air. Probably the smallest Stratux System possible. 
+Stratux Europe running on a NanoPi Neo Air. Probably the smallest Stratux System possible. The case including fan and GPS ist juts 79x48x33mm in size.
 Based on the wonderful work of https://github.com/b3nn0/stratux and https://github.com/VirusPilot/stratux-pi4.
+
+```diff
+-!!WARNING!!- This is work in progress. It might not work! It might fail after a while! DO NOT RELY ON IT DURING FLIGHT!!
+```
 
 # Installation
 - Install a fresh version or Armbian Bullseye (I used 23.02.0 with 5.15.91 kernel) on your NanoPi Neo Air. Since there is no official Armbian support for the NanoPi Neo Air, you need to compile it yourself. For compatibility reason, you need to add ```BOOTFS_TYPE="fat"``` to the NanoPi Neo Air config file before compiling Armbian.
