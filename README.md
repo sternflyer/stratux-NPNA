@@ -45,10 +45,10 @@ The case can be 3D-printed. With the fan it provides sifficient cooling for the 
 These are the components you need: TBA
 - NanoPi Neo Air (https://amzn.to/3KQvrtV)
 - SDRs (https://amzn.to/3qOO4Ye)
-- GPS Module
+- GPS Module (https://s.click.aliexpress.com/e/_Ddqhyxp)
 - 30x30x7mm Fan (https://amzn.to/45lR8dI)
 - GY-91 (https://amzn.to/3sjisum)
-- PCB
+- PCB (need to get your own, GERBER files provided in [[PCB/](https://github.com/sternflyer/stratux-NPNA/PCB/stratux-NPNA-PCB_v05.zip))
 - PCB components ([PCB/Partlist PCB.csv](https://github.com/sternflyer/stratux-NPNA/blob/main/PCB/Partlist%20PCB.csv))
 - PETG or ABS for the case (https://amzn.to/3P5NSgH)
 - Suction cup (https://amzn.to/3E7OOLq)
