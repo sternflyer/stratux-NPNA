@@ -58,7 +58,6 @@ Here is a small comparison of the NanoPi Neo Air and the Raspberry Pi 3B+ when r
 
 |     | raspberry Pi 3B+ | NanoPi Neo Air |
 |-----|---------|----------------|
-Power Consumption | 1154 mA | xxxxmA|
-Boot up time | 42 s | xx s |
-Avg. CPU load | 61 % | xxx |
-Avg. CPU Temp. | 42 °C | xx °C |
+Power Consumption | 1154 mA | 985 mA |
+Avg. CPU load | 61 % | 64 % |
+Avg. CPU Temp. | 42 °C | 45 °C |
